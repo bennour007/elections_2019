@@ -1,0 +1,25 @@
+{
+    "id": "CDA54969",
+    "path": "~/Projects/elections_2019/code/data_prep.R",
+    "project_path": "code/data_prep.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1625993415605.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "14,37",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1626008459,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1626008690744,
+    "read_only": false,
+    "read_only_alternatives": []
+}

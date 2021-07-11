@@ -1,0 +1,24 @@
+{
+    "id": "3EB82406",
+    "path": "~/Projects/elections/code/tidier_version.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1625994444227.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "142,65",
+        "scrollLine": "134"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1625995673,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1625997980593,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "D376FF4D",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1625995584173.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "structure(list(party = c(\"afek_tounes\", \"al_badil\", \"amal_wa_3amal\",  \"beni_watani\", \"coalisation_kolna_lil_watan\", \"coalition_karama\",  \"ennahdha\", \"front_populaire_hammami\", \"front_populaire_rahoui\",  \"machrou3_tounes\", \"mouvement_de_l_amour_ma7abba\", \"mouvement_du_peuple\",  \"nidaa_tounes\", \"outsider_1\", \"outsider_2\", \"parti_amal\", \"parti_de_la_misericorde_rahma\",  \"pdl\", \"psd\", \"qalb_tounes\", \"tahya_tounes\", \"tayar\", \"uds\",  \"upr\", \"x3ich_tounsi\"), q_seats = c(0L, 0L, 0L, 0L, 0L, 1L, 28L,  0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 3L, 0L, 17L, 0L, 3L,  0L, 0L, 0L), r_seats = c(1, 3, 2, 0, 0, 20, 23, 0, 1, 4, 1, 14,  3, 10, 3, 0, 4, 15, 1, 21, 14, 19, 1, 3, 1), total_seats = c(1,  3, 2, 0, 0, 21, 51, 0, 1, 4, 1, 15, 3, 10, 3, 0, 4, 18, 1, 38,  14, 22, 1, 3, 1)), row.names = c(NA, -25L), class = c(\"tbl_df\",  \"tbl\", \"data.frame\"))",
+        "caption": ".",
+        "totalObservations": "25",
+        "displayedObservations": "25",
+        "variables": "4",
+        "cacheKey": "EF11A4A9",
+        "object": "",
+        "environment": "_rs_no_env",
+        "contentUrl": "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=EF11A4A9&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94627797484008,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1625995584173,
+    "read_only": false,
+    "read_only_alternatives": []
+}
