@@ -2,6 +2,9 @@
 
 data <- readxl::read_xlsx('data/general_results_2019.xlsx')
 seats <- readxl::read_xlsx('data/seats.xlsx')
+
+source('code/FUNCTIONS.R')
+source('code/Infrastructure.R')
 # preparing data 
 
 data_clean <- data %>% 
